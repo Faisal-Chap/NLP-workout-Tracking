@@ -5,7 +5,7 @@ This code will track the user workout in the google sheet automatically from nat
 - obtain the date time, calories burnt, time taken
 - store that to the google sheet through google sheet api
 
-* can include other features like
+ can include other features like
 
 - quering the data
 - editing the data
